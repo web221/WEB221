@@ -44,14 +44,10 @@ const AboutUs2 = ({ skillsTheme }) => {
                 </h3>
               </Split>
               <p className="wow fadeInUp" data-wow-delay=".4s">
-                We are AVO. We create award-winning websites, remarkable brands
-                and cutting-edge apps.Nullam imperdiet, sem at fringilla
-                lobortis, sem nibh fringilla nibh, id gravida mi purus sit amet
-                erat. Ut dictum nisi masvitp.
+                Step into the realm of WEB221, a harmonious fusion of technology and excellence where digital brilliance is born. Over time, we've ignited the evolution of businesses' digital identities. Within the intricate threads of code and creativity, we intricately weave solutions that transcend norms and elevate anticipation. Fuelled by an unyielding commitment to flawlessness, we mold digital realms, sculpting immersive encounters that echo with innovation and grace.
               </p>
               <p className="mt-10 wow fadeInUp" data-wow-delay=".4s">
-                Nulla metus metus ullamcorper vel tincidunt sed euismod nibh
-                volutpat velit class aptent taciti sociosqu ad litora.
+                Join forces with us to elevate your next project. With a focus on excellence and a commitment to empowering businesses, we deliver 21st-century solutions that harness the power of innovation. Together, we'll transform your ideas into impactful realities.
               </p>
               <Split>
                 <Link href="/about/about-dark">
