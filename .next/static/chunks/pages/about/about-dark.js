@@ -2175,7 +2175,7 @@ module.exports = JSON.parse('[{"id":1,"lightImage":"/img/clients/brands/light/1.
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('[{"id":1,"title":"Digital Marketing","icon":"pe-7s-gleam","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":2,"title":"Web & App Development","icon":"pe-7s-phone","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":3,"title":"Graphic Design","icon":"pe-7s-magic-wand","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."}]');
+module.exports = JSON.parse('[{"id":1,"title":"Digital Marketing","icon":"pe-7s-settings","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":2,"title":"Web & App Development","icon":"pe-7s-phone","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":3,"title":"Graphic Design","icon":"pe-7s-magic-wand","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":4,"title":"Digital Marketing","icon":"pe-7s-gleam","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":5,"title":"Web & App Development","icon":"pe-7s-phone","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."},{"id":6,"title":"Graphic Design","icon":"pe-7s-magic-wand","content":"Tempore corrupti temporibus fuga earum asperiores fugit laudantium."}]');
 
 /***/ }),
 

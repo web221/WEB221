@@ -1490,6 +1490,7 @@ pre code {
     -ms-flex: 0 0 33.333333%;
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
+    margin-top: 10px;
   }
 
   .col-lg-5 {
