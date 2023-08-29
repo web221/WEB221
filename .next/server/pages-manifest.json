@@ -1,7 +1,5 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
-  "/showcase2/showcase2-dark": "pages/showcase2/showcase2-dark.js",
-  "/": "pages/index.js"
+  "/_error": "pages/_error.js"
 }
