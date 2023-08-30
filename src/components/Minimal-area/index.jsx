@@ -19,7 +19,7 @@ const MinimalArea = () => {
             <div className="img">
               <img
                 className="thumparallax-down"
-                src="/img/min-area.jpg"
+                src="/img/WEB221-meaning.jpg"
                 alt=""
               />
             </div>
@@ -37,8 +37,7 @@ const MinimalArea = () => {
 
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Our creative Ad agency is ranked among the finest in the US.
-                  We cultivate smart ideas for start-ups and seasoned players.
+                As your 360 digital solution partner, we merge web/mobile solutions & machine learning for a comprehensive online presence.
                 </p>
               </Split>
               <ul className="feat">
@@ -47,7 +46,7 @@ const MinimalArea = () => {
                     <span>1</span> Our Mission
                   </h6>
                   <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
+                  Our mission is to revolutionize the digital landscape by crafting innovative solutions that inspire growth, reshape experiences, and drive unparalleled success.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
@@ -55,7 +54,7 @@ const MinimalArea = () => {
                     <span>2</span> Our Goals
                   </h6>
                   <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
+                  Our goals encompass pioneering innovation, delivering exceptional value, and forging lasting partnerships in the digital realm.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".6s">

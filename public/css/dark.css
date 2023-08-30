@@ -904,7 +904,7 @@ body {
   width: 6px;
   height: 6px;
   z-index: 10000001;
-  background-color: #75dab4;
+  background-color: #FF9D00;
   -webkit-transition: width .3s ease-in-out,
  height .3s ease-in-out,
  margin .3s ease-in-out,
@@ -923,7 +923,7 @@ body {
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #75dab4;
+  background-color: #FF9D00;
   opacity: .3; }
 
 .cursor-outer {
@@ -931,7 +931,7 @@ body {
   margin-top: -15px;
   width: 40px;
   height: 40px;
-  border: 1px solid #75dab4;
+  border: 1px solid #FF9D00;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 10000000;
@@ -978,7 +978,7 @@ body {
   line-height: 44px;
   font-size: 13px;
   font-weight: 900;
-  color: #75dab4;
+  color: #FF9D00;
   left: 0;
   top: 0;
   height: 44px;
@@ -994,7 +994,7 @@ body {
   fill: none; }
 
 .progress-wrap svg.progress-circle path {
-  stroke: #75dab4;
+  stroke: #FF9D00;
   stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -1108,7 +1108,7 @@ body {
   position: relative;
   margin: 0 auto 80px; }
   .sec-head h6 {
-    color: #75dab4;
+    color: #FF9D00;
     font-weight: 300;
     font-size: 17px;
     text-transform: uppercase;
@@ -1151,7 +1151,7 @@ body {
     width: 4px;
     height: 4px;
     border-radius: 50%;
-    background: #75dab4;
+    background: #FFAC00;
     position: absolute;
     left: 6px;
     bottom: 5px; }
@@ -2401,7 +2401,7 @@ header.simpl {
       font-size: 20px;
       font-weight: 300;
       text-transform: capitalize;
-      color: #75dab4; }
+      color: #FFAC00; }
   .works-header .capt .bactxt {
     font-size: 30vw;
     font-weight: bold;
@@ -2669,7 +2669,7 @@ header.simpl {
 /* ====================== [ end showcase ] ====================== */
 /* ====================== [ Start Intro ] ====================== */
 .about .content .co-tit {
-  color: #75dab4;
+  color: #FFAC00;
   font-weight: 400;
   margin-bottom: 30px; }
 
@@ -2991,20 +2991,22 @@ header.simpl {
     padding: 60px;
     margin: 60px auto;
     background: #151921;
-    position: relative; }
+    position: relative;
+    height: 300px;
+  }
     .services .step-item.xbottom {
       bottom: -60px; }
     .services .step-item.xtop {
       top: -60px; }
     .services .step-item.xcolor {
-      background: #75dab4;
+      background: #DA9203;
       color: #11141b; }
       .services .step-item.xcolor .icon {
         color: #11141b !important; }
       .services .step-item.xcolor p {
         color: #333; }
     .services .step-item .icon {
-      color: #75dab4;
+      color: #FF9D00;
       font-size: 40px;
       margin-bottom: 30px; }
     .services .step-item h6 {
@@ -3013,7 +3015,10 @@ header.simpl {
     text-align: center;
     padding: 60px;
     background: #151921;
-    position: relative; }
+    position: relative;
+  height: 300px; 
+    margin-bottom: 10px;
+}
     .services .item.simpl {
       background: transparent;
       border: 1px solid rgba(255, 255, 255, 0.05);
@@ -3023,7 +3028,7 @@ header.simpl {
       .services .item.simpl:hover {
         background: #21242b; }
     .services .item .icon {
-      color: #75dab4;
+      color: #FF9D00;
       font-size: 40px;
       margin-bottom: 40px; }
     .services .item h6 {
@@ -3094,13 +3099,13 @@ header.simpl {
         font-weight: 500;
         margin-bottom: 5px; }
         .min-area .content ul.feat li h6 span {
-          color: #75dab4;
+          color: #FF9D00;
           width: 30px;
           height: 30px;
           line-height: 30px;
           text-align: center;
           font-size: 13px;
-          border: 1px solid #75dab4;
+          border: 1px solid #FF9D00;
           border-radius: 50%;
           margin-right: 10px; }
       .min-area .content ul.feat li p {
@@ -3893,7 +3898,7 @@ header.simpl {
       letter-spacing: 2px;
       font-weight: 500;
       margin-bottom: 5px;
-      color: #75dab4; }
+      color: #FF9D00; }
     .testimonials .item .info .author-details {
       font-size: 13px; }
 
@@ -4054,7 +4059,7 @@ header.simpl {
     opacity: .1; }
   .block-sec .vid-area .vid-icon .vid span {
     font-size: 30px;
-    color: #75dab4; }
+    color: #FF9D00; }
 
 .block-sec .vid-area .cont {
   margin-top: 40px; }
@@ -4068,7 +4073,7 @@ header.simpl {
 
 .block-sec .testim-box {
   position: relative;
-  background: #75dab4;
+  background: #DA9203;
   padding: 80px 40px;
   margin-bottom: -120px; }
   .block-sec .testim-box .head-box h6 {
@@ -4544,7 +4549,7 @@ header.simpl {
   letter-spacing: 4px;
   margin-bottom: 10px; }
   .call-action .content h6 span {
-    color: #75dab4; }
+    color: #FF9D00; }
 
 .call-action .content h2 {
   font-weight: 700;
@@ -4791,7 +4796,7 @@ header.simpl {
     border: 0;
     padding: 15px 30px;
     background: rgba(255, 255, 255, 0.02);
-    color: #75dab4;
+    color: #DA9203;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 13px;

@@ -8,7 +8,7 @@ import "react-circular-progressbar/dist/styles.css";
 const AboutUs2 = ({ skillsTheme }) => {
   const cpStyle = {
     path: {
-      stroke: "#75dab4",
+      stroke: "#FF9D00",
     },
     trail: {
       stroke: skillsTheme
@@ -39,8 +39,7 @@ const AboutUs2 = ({ skillsTheme }) => {
                   className="co-tit custom-font wow words chars splitting"
                   data-splitting
                 >
-                  Our 20 years working experience make a different business
-                  agency services.
+                  Empowering Business Transformation Through Innovative Digital Solutions.
                 </h3>
               </Split>
               <p className="wow fadeInUp" data-wow-delay=".4s">

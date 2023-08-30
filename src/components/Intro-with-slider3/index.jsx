@@ -84,8 +84,8 @@ const IntroWithSlider3 = () => {
                     <div className="col-lg-6 col-md-8 offset-lg-1 offset-md-1">
                       <div className="caption">
                         <Split>
-                          <h1 data-splitting className="words chars splitting">
-                            <div className="thin">Empowering Your Digital</div>Success
+                          <h1 data-splitting className="words chars splitting" key={slide.id}>
+                            <div className="thin" >Empowering Your Digital</div>{slide.title}
                           </h1>
                         </Split>
                         <p>

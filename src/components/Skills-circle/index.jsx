@@ -5,7 +5,7 @@ import "react-circular-progressbar/dist/styles.css";
 const SkillsCircle = ({ subBG, theme }) => {
   const cpStyle = {
     path: {
-      stroke: "#75dab4",
+      stroke: "#DA9203",
     },
     trail: {
       stroke: theme ? (theme == "dark" ? "#0f1218" : "#e5e5e5") : "",

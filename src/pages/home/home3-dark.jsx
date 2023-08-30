@@ -37,9 +37,9 @@ const Homepage3 = () => {
       <AboutUs2 skillsTheme="dark" />
       <Services3 />
       <NumbersWithVideo />
-      <Works2Slider subBG />
+      {/*<Works2Slider subBG />*/}
       <Testimonials1 />
-      <BlogsThreeColumn1 subBG />
+      {/*<BlogsThreeColumn1 subBG />*/}
       <Footer />
     </DarkTheme>
   );

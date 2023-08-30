@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "title": "Digital Marketing",
+        "title": "Machine Learning",
         "icon": "pe-7s-settings",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "content": "Data-driven insights and automation."
     },
     {
       "id": 2,
-      "title": "Web & App Development",
+      "title": "Web & Mobile App Development",
       "icon": "pe-7s-phone",
-      "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+      "content": "Unified cross-platform experiences for engagement and convenience."
     },
     {
       "id": 3,
       "title": "Graphic Design",
       "icon": "pe-7s-magic-wand",
-      "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+      "content": "Creativity in visual communication."
     },
     {
       "id": 4,
       "title": "Digital Marketing",
       "icon": "pe-7s-gleam",
-      "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+      "content": "Strategic campaigns for wider reach."
   },
   {
     "id": 5,
-    "title": "Web & App Development",
-    "icon": "pe-7s-phone",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    "title": "UI/UX",
+    "icon": "pe-7s-vector",
+    "content": "Intuitive interfaces with visually appealing interactions."
   },
   {
     "id": 6,
-    "title": "Graphic Design",
-    "icon": "pe-7s-magic-wand",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    "title": "SEO Optimization",
+    "icon": "pe-7s-global",
+    "content": "Boosting online visibility and organic traffic."
   }
 ]

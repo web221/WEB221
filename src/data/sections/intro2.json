@@ -1,26 +1,19 @@
 [
   {
     "id": 1,
-    "title": {
-      "first": "Unique",
-      "second": "brand Stories"
-    },
+    "title": "Hello",
+
     "image": "/img/slid/01.jpg"
   },
   {
     "id": 2,
-    "title": {
-      "first": "Digital",
-      "second": "Design Awards"
-    },
+
+    "title": "Hi",
     "image": "/img/slid/03.jpg"
   },
   {
     "id": 3,
-    "title": {
-      "first": "Original",
-      "second": "Solutions"
-    },
+    "title": "welcome",
     "image": "/img/slid/02.jpg"
   }
 ]

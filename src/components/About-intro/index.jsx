@@ -15,14 +15,7 @@ const AboutIntro = () => {
             <div className="text">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  We develop creative solutions for small and big brands alike,
-                  build authentic product identities and much more.Lorem ipsum
-                  dolor sit amet, consectetur adipiscing elit sit non facilisis
-                  vitae eu. Ultrices ut diam morbi risus dui, nec eget at lorem
-                  in id tristique in elementum leo nisi eleifend placerat magna
-                  lacus elementum ornare vehicula odio posuere quisque ultrices
-                  tempus cras id blandit maecenas in ornare quis dolor tempus
-                  risus vitae feugiat fames aliquet sede.
+                At Web221, we're not just a startup; we're your partners in the journey towards transforming ideas into remarkable digital realities. Our core focus lies at the intersection of web solutions, mobile innovations, and machine learning advancements. We understand that in today's fast-paced digital landscape, businesses need more than just a presence – they require comprehensive, integrated, and cutting-edge solutions that cater to every facet of their digital presence. And that's precisely what we're here to provide.
                 </p>
               </Split>
             </div>

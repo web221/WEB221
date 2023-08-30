@@ -15,7 +15,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
         className="background bg-img section-padding pb-0"
         style={{ backgroundImage: `url(/img/pattern${theme === 'light' ? '-light':''}.png)` }}
       >
-        <div className="container">
+        {/*<div className="container">
           <div className="number-sec">
             <div className="row">
               <div className="col-lg-3 col-md-6">
@@ -41,7 +41,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                     <p className="wow txt words chars splitting" data-splitting>
                       Compleate Projects
                     </p>
-                  </Split>
+  </Split>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6">
@@ -72,7 +72,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
               </div>
             </div>
           </div>
-        </div>
+        </div>*/}
         {typeof window !== "undefined" && (
           <ModalVideo
             channel="vimeo"

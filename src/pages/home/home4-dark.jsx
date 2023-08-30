@@ -48,10 +48,10 @@ const Homepage4 = () => {
       <div ref={MainContent} className="main-content">
         <AboutUs1 />
         <Services4 withBG withPadding />
-        <PortfolioCustomColumn column={2} filterPosition="left" />
+        {/*<PortfolioCustomColumn column={2} filterPosition="left" />*/}
         <Testimonials1 withBG imgSrc="/img/pattern.png" />
         <TeamWithSkills />
-        <BlogsThreeColumn2 subBG />
+        {/*<BlogsThreeColumn2 subBG />*/}
         <ContactSection />
         <Footer />
       </div>
