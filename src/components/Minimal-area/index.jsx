@@ -62,7 +62,7 @@ const MinimalArea = () => {
                     <span>3</span> Why Us?
                   </h6>
                   <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
+                  At Web221 offers a combination of comprehensive, innovative, and integrated solutions while positioning themselves as partners who understand the challenges of the modern digital landscape. These qualities could make them a valuable choice for businesses looking to enhance their digital presence and capabilities.
                   </p>
                 </li>
               </ul>

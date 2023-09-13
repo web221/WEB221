@@ -96,7 +96,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                   </div>
                   <div className="wow imago">
                     <div className="img">
-                      <img src="/img/vid.jpg" alt="" />
+                      <img src="/img/1.jpg" alt="" />
                     </div>
                     <div className="vid-icon">
                       <a
@@ -105,7 +105,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                           setOpen(true);
                         }}
                         className="vid"
-                        href="https://vimeo.com/127203262"
+                        href="https://vimeo.com/864060085?share=copy"
                       >
                         <div className="vid-butn">
                           <span className="icon">

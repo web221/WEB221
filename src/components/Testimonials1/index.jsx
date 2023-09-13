@@ -80,10 +80,9 @@ class Testimonials1 extends React.Component {
               >
                 <div className="item">
                   <p>
-                    Working with Avo digital agency to support our organic and
-                    paid social media activity has extended the marketing
-                    activities we are able to achieve platform has made
-                    collaboration easy.
+                  WEB221 was extremely flexible in their approach and was always willing to 
+                  walk that extra mile for their deliverables. They are comprised of very energetic individuals and 
+                  I was happy to work with them for digital marketing purposes. 
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -97,23 +96,23 @@ class Testimonials1 extends React.Component {
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                                Alex Regelman
+                              Janaka Edirisooriya
                               </h6>
                               <span className="author-details">
-                                Co-founder, Colabrio
+                                Producer, Yugathra
                               </span>
                             </div>
                           </>
                         ) : (
                           <>
                             <div className="img">
-                              <img src="/img/clients/1.jpg" alt="" />
+                              <img src="/img/clients/janaka_yugathra.jpg" alt="" />
                             </div>
                             <h6 className="author-name custom-font">
-                              Alex Regelman
+                            Janaka Edirisooriya
                             </h6>
                             <span className="author-details">
-                              Co-founder, Colabrio
+                            Producer, Yugathra
                             </span>
                           </>
                         )}
@@ -123,10 +122,7 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                    Avo started out managing our SEO efforts, but their
-                    scientific approach to digital marketing and the results
-                    they have achieved made it an easy decision for us to
-                    handover the management.
+                  I had the pleasure of working with the fantastic team at WEB221. They not only created a stunning website for my business but also worked their magic to rank it number 1 in SEO. Their expertise and dedication are truly commendable. Thanks to WEB221, my online presence has never been stronger, and I'm seeing significant growth in my business. I highly recommend their services to anyone looking for top-notch web development and SEO solutions!
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -140,23 +136,23 @@ class Testimonials1 extends React.Component {
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                                Alex Regelman
+                              Sanjana fernando
                               </h6>
                               <span className="author-details">
-                                Co-founder, Colabrio
+                                Owner, Bride Zone pvt Ltd
                               </span>
                             </div>
                           </>
                         ) : (
                           <>
                             <div className="img">
-                              <img src="/img/clients/1.jpg" alt="" />
+                              <img src="/img/clients/sanjana_bz.jpg" alt="" />
                             </div>
                             <h6 className="author-name custom-font">
-                              Alex Regelman
+                            Sanjana fernando
                             </h6>
                             <span className="author-details">
-                              Co-founder, Colabrio
+                            Owner, Bride Zone pvt Ltd
                             </span>
                           </>
                         )}
@@ -166,10 +162,7 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                    I would highly recommend Avo Digital. I worked with the team
-                    on an animation for our U+2018 Click &amp; Collect U+2019
-                    service. This team is different from any other agency I have
-                    worked with in the past.
+                  Working with Web221 was an absolute delight! Their team's creativity and expertise in website design truly impressed me. They took my vision and turned it into a stunning, user-friendly website that perfectly represents my brand. The attention to detail, responsiveness, and seamless communication throughout the process made me feel valued as a client. I'm truly happy with the final result of my website.
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -183,23 +176,23 @@ class Testimonials1 extends React.Component {
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                                Alex Regelman
+                              Kasun Prabudha
                               </h6>
                               <span className="author-details">
-                                Co-founder, Colabrio
+                                Owner, Island Gateway Tours
                               </span>
                             </div>
                           </>
                         ) : (
                           <>
                             <div className="img">
-                              <img src="/img/clients/1.jpg" alt="" />
+                              <img src="/img/clients/kasun_IGW.jpg" alt="" />
                             </div>
                             <h6 className="author-name custom-font">
-                              Alex Regelman
+                            Kasun Prabudha
                             </h6>
                             <span className="author-details">
-                              Co-founder, Colabrio
+                            Owner, Island Gateway Tours
                             </span>
                           </>
                         )}
