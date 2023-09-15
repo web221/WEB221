@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/contact/contact-dark": "pages/contact/contact-dark.js"
+  "/": "pages/index.js",
+  "/home/home3-dark": "pages/home/home3-dark.js"
 }
