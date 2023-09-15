@@ -105,7 +105,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                           setOpen(true);
                         }}
                         className="vid"
-                        href="https://vimeo.com/864060085?share=copy"
+                        href="https://vimeo.com/864060085"
                       >
                         <div className="vid-butn">
                           <span className="icon">

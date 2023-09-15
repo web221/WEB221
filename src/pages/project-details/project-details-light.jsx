@@ -37,7 +37,7 @@ const ProjectDetailsLight = () => {
       <ProjectDetailsVideo
         videoBackground="/img/portfolio/project1/bg.jpg"
         videoType="vimeo"
-        videoId={127203262}
+        videoId={864060085}
       />
       <NextProject
         projectImage="/img/portfolio/project2/bg.jpg"

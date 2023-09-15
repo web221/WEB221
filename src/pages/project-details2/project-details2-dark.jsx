@@ -38,7 +38,7 @@ const ProjectDetails2Dark = () => {
         <ProjectDetailsVideo
           videoBackground="/img/portfolio/project2/bg.jpg"
           videoType="vimeo"
-          videoId={127203262}
+          videoId={864060085}
         />
         <NextProject
           projectImage="/img/portfolio/project1/bg.jpg"

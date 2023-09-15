@@ -47,7 +47,7 @@ const VideoWithTestimonials = () => {
                       e.preventDefault();
                       setOpen(true);
                     }}
-                    href="https://vimeo.com/127203262"
+                    href="https://vimeo.com/864060085"
                   >
                     <div className="vid-butn">
                       <span className="icon">
