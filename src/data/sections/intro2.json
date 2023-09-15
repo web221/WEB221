@@ -1,19 +1,23 @@
 [
   {
     "id": 1,
-    "title": "Hello",
-
+    "title": "Discover",
+    "details":"boundless possibilities for your digital needs!",
+    "detailshead":"EMBRACE INNOVATION",
     "image": "/img/slid/01.jpg"
   },
   {
     "id": 2,
-
-    "title": "Hi",
+    "details":"in shaping an unlimited digital future.",
+    "detailshead":"UNLEASH YOUR DIGITAL POTENTIAL",
+    "title": "Join Us",
     "image": "/img/slid/03.jpg"
   },
   {
     "id": 3,
-    "title": "welcome",
+    "details":"boundless digital possibilities with us!",
+    "detailshead":"WELCOME TO LIMITLESS INNOVATION",
+    "title": "Explore",
     "image": "/img/slid/02.jpg"
   }
 ]

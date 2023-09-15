@@ -85,14 +85,15 @@ const IntroWithSlider3 = () => {
                       <div className="caption">
                         <Split>
                           <h1 data-splitting className="words chars splitting" key={slide.id}>
-                            <div className="thin" >Empowering Your Digital</div>{slide.title}
+                            <div className="thin" >{slide.detailshead}</div>{slide.title}
                           </h1>
                         </Split>
                         <p>
-                            Join us to shape an innovative future without limits for all your digital needs!                        </p>
-                        <Link href="/works3/works3-dark">
+                          {slide.details}
+                            {/*Join us to shape an innovative future without limits for all your digital needs!*/}                        </p>
+                        <Link href="/about/about-dark">
                           <a className="btn-curve btn-color btn-radius mt-30">
-                            <span>Discover Work</span>
+                            <span>Discover Us</span>
                           </a>
                         </Link>
                       </div>
