@@ -57,7 +57,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                   }}
                 >
                   {({ errors, touched }) => (
-                    <Form id="contact-form"  action="D:\React Projects\WEB221\public\contact.php" method="post">
+                    <Form id="contact-form"  action="../../../public/contact.php" method="post">
                       <div className="messages" ref={messageRef}></div>
 
                       <div className="controls">
