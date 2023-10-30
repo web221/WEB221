@@ -21,7 +21,7 @@ const Navbar = ({ lr, nr, theme }) => {
       }`}
     >
       <div className="container">
-        <Link href="/home/home3-dark/">
+        <Link href="/home/">
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
@@ -53,22 +53,22 @@ const Navbar = ({ lr, nr, theme }) => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <Link href="/home/home3-dark">
+              <Link href="/home">
                 <a className="nav-link">Home</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/about/about-dark">
+              <Link href="/about">
                 <a className="nav-link">About</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/showcase2/showcase2-dark">
+              <Link href="/method">
                 <a className="nav-link">Method</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/contact/contact-dark">
+              <Link href="/contact">
                 <a className="nav-link">Contact</a>
               </Link>
             </li>

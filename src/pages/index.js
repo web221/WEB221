@@ -1,10 +1,8 @@
 import DarkTheme from '../layouts/Dark'
-import Demos from "./demos";
+import Home from "./home";
 
-export default function Home() {
+export default function() {
   return (
-    <DarkTheme>
-      <Demos />
-    </DarkTheme>
+      <Home/>
   )
 }

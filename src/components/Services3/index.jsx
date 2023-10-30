@@ -40,7 +40,7 @@ const Services3 = () => {
           </div>
         </div>
         <div className="smore custom-font">
-          <Link href="/about/about-dark">Discover More</Link>
+          <Link href="/about/">Discover More</Link>
           <i className="fas fa-long-arrow-alt-right"></i>
         </div>
       </div>

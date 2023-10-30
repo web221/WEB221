@@ -91,7 +91,7 @@ const IntroWithSlider3 = () => {
                         <p>
                           {slide.details}
                             {/*Join us to shape an innovative future without limits for all your digital needs!*/}                        </p>
-                        <Link href="/about/about-dark">
+                        <Link href="/about/">
                           <a className="btn-curve btn-color btn-radius mt-30">
                             <span>Discover Us</span>
                           </a>
