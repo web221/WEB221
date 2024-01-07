@@ -49,7 +49,7 @@ const AboutUs2 = ({ skillsTheme }) => {
                 Join forces with us to elevate your next project. With a focus on excellence and a commitment to empowering businesses, we deliver 21st-century solutions that harness the power of innovation. Together, we'll transform your ideas into impactful realities.
               </p>
               <Split>
-                <Link href="/about/about-dark">
+                <Link href="/about/">
                   <a
                     className="words chars splitting simple-btn custom-font mt-30 wow"
                     data-splitting

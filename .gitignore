@@ -1,2 +1,4 @@
-.next
-node_moduless
+*.log
+.next/
+node_modules/
+.idea/

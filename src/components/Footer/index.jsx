@@ -31,14 +31,7 @@ const Footer = ({ noSubBG }) => {
                     <span>Email : </span> <a href="mailto:hello@web221.com">hello@web221.com</a>
                   </li>
                   <li>
-                    <span>Address : </span> A32 , Ave 15th Street, Door 211, San
-                    Franciso, USA 32490.
-                  </li>
-                  <li>
-                    <span>Phone : </span> +94 72-771-3311
-                  </li>
-                  <li>
-                  <span style={{ margin: '0 10px 0 40px' }}>:</span> +94 77-006-1576
+                    <span>Phone : </span> +94 72-771-3311 / +94 77-006-1576
                   </li>
                 </ul>
               </div>
@@ -55,7 +48,7 @@ const Footer = ({ noSubBG }) => {
                     <i className="fab fa-linkedin"></i>
                   </a>
                   <a href="https://www.tiktok.com/@web_221?_r=1&_d=e4agjiegb0ae6l&sec_uid=MS4wLjABAAAAuLdUTev-hKbmcNJMFdHxPZJDBZoobLbZ4e-n5PjmRSn759xu5VI0wgwKEFiwnCf5&share_author_id=7154393465953141786&sharer_language=en&source=h5_m&u_code=e4agj9fag2jl4l&timestamp=1694624157&user_id=7154393465953141786&sec_user_id=MS4wLjABAAAAuLdUTev-hKbmcNJMFdHxPZJDBZoobLbZ4e-n5PjmRSn759xu5VI0wgwKEFiwnCf5&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7274050612232619784&share_link_id=1d8edb40-cccb-47ec-9ea3-f14343623cd8&share_app_id=1233&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb4907&social_share_type=5" className="icon">
-                    <i className="fab fa-tiktok"></i>
+                    <i className="fab fa-instagram"></i>
                   </a>
                   <a href="https://youtube.com/@web2216?si=S44ye5xpkH-htiaU" className="icon">
                     <i className="fab fa-youtube"></i>
@@ -97,25 +90,11 @@ const Footer = ({ noSubBG }) => {
                 )}
               </Formik>
             </div>
-{/*            <div className="insta">
-              <h6 className="custom-font stit simple-btn">Instagram Post</h6>
-              <div className="insta-gallary">
-                <a href="#0">
-                  <img src="/img/insta/1.jpg" alt="" />
-                </a>
-                <a href="#0">
-                  <img src="/img/insta/2.jpg" alt="" />
-                </a>
-                <a href="#0">
-                  <img src="/img/insta/3.jpg" alt="" />
-                </a>
-              </div>
-            </div>*/}
           </div>
         </div>
         <div className="copyrights text-center">
           <p>
-            © 2023, WEB221 all rights received.
+            © 2024, WEB221 all rights received.
           </p>
         </div>
       </div>

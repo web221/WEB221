@@ -38,13 +38,12 @@ class Testimonials1 extends React.Component {
       <section
         className={`testimonials section-padding ${this.props.subBgLftstl ? "sub-bg lftstl" : ""} ${this.props.withBG ? "bg-img" : ""} ${this.props.parallaxie ? "parallaxie" : ""} ${!this.props.overlay ? "noOverlay" : ""}`}
         style={{
-          backgroundImage: `${
-            this.props.withBG && !this.props.imgSrc
+          backgroundImage: `${this.props.withBG && !this.props.imgSrc
               ? "url(/img/slid/3.jpg)"
               : this.props.imgSrc
-              ? `url(${this.props.imgSrc})`
-              : "none"
-          }`,
+                ? `url(${this.props.imgSrc})`
+                : "none"
+            }`,
         }}
         data-overlay-dark={`${this.props.overlay ? "9" : "0"}`}
       >
@@ -80,9 +79,9 @@ class Testimonials1 extends React.Component {
               >
                 <div className="item">
                   <p>
-                  WEB221 was extremely flexible in their approach and was always willing to 
-                  walk that extra mile for their deliverables. They are comprised of very energetic individuals and 
-                  I was happy to work with them for digital marketing purposes. 
+                    WEB221 was extremely flexible in their approach and was always willing to
+                    walk that extra mile for their deliverables. They are comprised of very energetic individuals and
+                    I was happy to work with them for digital marketing purposes.
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -96,7 +95,7 @@ class Testimonials1 extends React.Component {
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                              Janaka Edirisooriya
+                                Janaka Edirisooriya
                               </h6>
                               <span className="author-details">
                                 Producer, Yugathra
@@ -109,10 +108,10 @@ class Testimonials1 extends React.Component {
                               <img src="/img/clients/janaka_yugathra.jpg" alt="" />
                             </div>
                             <h6 className="author-name custom-font">
-                            Janaka Edirisooriya
+                              Janaka Edirisooriya
                             </h6>
                             <span className="author-details">
-                            Producer, Yugathra
+                              Producer, Yugathra
                             </span>
                           </>
                         )}
@@ -122,7 +121,7 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                  I had the pleasure of working with the fantastic team at WEB221. They not only created a stunning website for my business but also worked their magic to rank it number 1 in SEO. Their expertise and dedication are truly commendable. Thanks to WEB221, my online presence has never been stronger, and I'm seeing significant growth in my business. I highly recommend their services to anyone looking for top-notch web development and SEO solutions!
+                    I had the pleasure of working with the fantastic team at WEB221. They not only created a stunning website for my business but also worked their magic to rank it number 1 in SEO. Their expertise and dedication are truly commendable. Thanks to WEB221, my online presence has never been stronger, and I'm seeing significant growth in my business. I highly recommend their services to anyone looking for top-notch web development and SEO solutions!
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -136,7 +135,7 @@ class Testimonials1 extends React.Component {
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                              Sanjana fernando
+                                Sanjana fernando
                               </h6>
                               <span className="author-details">
                                 Owner, Bride Zone pvt Ltd
@@ -149,10 +148,10 @@ class Testimonials1 extends React.Component {
                               <img src="/img/clients/sanjana_bz.jpg" alt="" />
                             </div>
                             <h6 className="author-name custom-font">
-                            Sanjana fernando
+                              Sanjana fernando
                             </h6>
                             <span className="author-details">
-                            Owner, Bride Zone pvt Ltd
+                              Owner, Bride Zone pvt Ltd
                             </span>
                           </>
                         )}
@@ -162,7 +161,7 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                  Working with Web221 was an absolute delight! Their team's creativity and expertise in website design truly impressed me. They took my vision and turned it into a stunning, user-friendly website that perfectly represents my brand. The attention to detail, responsiveness, and seamless communication throughout the process made me feel valued as a client. I'm truly happy with the final result of my website.
+                    Working with Web221 was an absolute delight! Their team's creativity and expertise in website design truly impressed me. They took my vision and turned it into a stunning, user-friendly website that perfectly represents my brand. The attention to detail, responsiveness, and seamless communication throughout the process made me feel valued as a client. I'm truly happy with the final result of my website.
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -176,7 +175,7 @@ class Testimonials1 extends React.Component {
                             </div>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                              Kasun Prabudha
+                                Kasun Prabudha
                               </h6>
                               <span className="author-details">
                                 Owner, Island Gateway Tours
@@ -189,10 +188,10 @@ class Testimonials1 extends React.Component {
                               <img src="/img/clients/kasun_IGW.jpg" alt="" />
                             </div>
                             <h6 className="author-name custom-font">
-                            Kasun Prabudha
+                              Kasun Prabudha
                             </h6>
                             <span className="author-details">
-                            Owner, Island Gateway Tours
+                              Owner, Island Gateway Tours
                             </span>
                           </>
                         )}
