@@ -82,44 +82,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
             onClose={() => setOpen(false)}
           />
         )}
-        <div className="showreel">
-          <div className="container">
-            <div className="row justify-content-center">
-              <div className="col-lg-9">
-                <div className="video-box">
-                  <div className="tit-text">
-                    <Split>
-                      <h3 className="wow words chars splitting" data-splitting>
-                        Showreel
-                      </h3>
-                    </Split>
-                  </div>
-                  <div className="wow imago">
-                    <div className="img">
-                      <img src="/img/1.jpg" alt="" />
-                    </div>
-                    <div className="vid-icon">
-                      <a
-                        onClick={(e) => {
-                          e.preventDefault();
-                          setOpen(true);
-                        }}
-                        className="vid"
-                        href="https://vimeo.com/864060085"
-                      >
-                        <div className="vid-butn">
-                          <span className="icon">
-                            <i className="fas fa-play"></i>
-                          </span>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+
       </div>
     </section>
   );
